@@ -1,2 +1,10 @@
 Library/
 Temp/
+Assets/Z_Test/
+.vs/
+obj/
+Logs/
+*.csproj
+.vsconfig
+*.sln
+Assets/Z_Test.meta
